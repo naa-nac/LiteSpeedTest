@@ -18,6 +18,7 @@ import (
 	"github.com/xxf098/lite-proxy/utils"
 )
 
+
 const (
 	downloadLink      = "https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz"
 	cloudflareLink100 = "https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz"
