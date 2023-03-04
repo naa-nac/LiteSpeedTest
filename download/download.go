@@ -20,10 +20,10 @@ import (
 
 
 const (
-	downloadLink      = "https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz"
-	cloudflareLink100 = "https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz"
-	cachefly10        = "https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz"
-	cachefly100       = "https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz"
+	downloadLink      = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
+	cloudflareLink100 = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
+	cachefly10        = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
+	cachefly100       = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
 )
 
 type DownloadOption struct {
