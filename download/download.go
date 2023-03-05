@@ -20,10 +20,10 @@ import (
 
 
 const (
-	downloadLink      = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
-	cloudflareLink100 = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
-	cachefly10        = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
-	cachefly100       = "https://www.python.org/ftp/python/2.5.2/Python25.chm"
+	downloadLink      = "https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip"
+	cloudflareLink100 = "https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip"
+	cachefly10        = "https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip"
+	cachefly100       = "https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip"
 )
 
 type DownloadOption struct {
