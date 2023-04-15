@@ -318,6 +318,10 @@ func DefaultResolver() *Resolver {
 	servers := []NameServer{
 		{
 			Net:  "udp",
+			Addr: "192.168.18.2:53",
+		},
+		{
+			Net:  "udp",
 			Addr: "223.5.5.5:53",
 		},
 		{
