@@ -10,6 +10,10 @@ func TestRequest(t *testing.T) {
 		Main: []NameServer{
 			{
 				Net:  "udp",
+				Addr: "192.168.18.2:53",
+			},
+			{
+				Net:  "udp",
 				Addr: "8.8.8.8:53",
 			},
 			{
