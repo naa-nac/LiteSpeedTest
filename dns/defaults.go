@@ -8,5 +8,5 @@ import _ "unsafe"
 var defaultNS []string
 
 func init() {
-	defaultNS = []string{"223.5.5.5:53", "8.8.8.8:53"}
+	defaultNS = []string{"192.168.18.2:53","223.5.5.5:53", "8.8.8.8:53"}
 }
